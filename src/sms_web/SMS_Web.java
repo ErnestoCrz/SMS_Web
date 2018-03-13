@@ -16,7 +16,10 @@ public class SMS_Web {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World!!!");
+        for(int i=0; i > 5; i++ ){
+        	System.out.printlnk(i+1);
+        }//Edit by second User in Virtual Machine
     }
     
 }
+
